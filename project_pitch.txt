@@ -1,0 +1,14 @@
+PROJECT TITLE
+MemorySupport AI
+
+TAGLINE
+The support agent that remembers.
+
+ONE-LINE PROBLEM
+Customers repeatedly explain the same problem because support systems lose context across conversations.
+
+ONE-LINE SOLUTION
+MemorySupport AI uses Hindsight long-term memory to remember customer history, environment, preferences, previous troubleshooting, and unresolved issues before answering.
+
+KEY DIFFERENTIATOR
+Memory is the product, not a side feature.

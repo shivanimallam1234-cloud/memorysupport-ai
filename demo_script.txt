@@ -1,0 +1,20 @@
+MEMORYSUPPORT AI — 60-90 SECOND JUDGE DEMO
+
+1. Problem (10 sec)
+"Customers hate repeating the same issue. Most chatbots forget what happened last time."
+
+2. Seed history (10 sec)
+Click Seed Demo Customer. Explain: "This customer uses Windows 11 and Chrome, had a PDF-upload crash, already tried cache clearing, and prefers step-by-step help."
+
+3. Show the memory effect (25 sec)
+Ask: "My application is crashing again when I upload a PDF."
+Point to the reply and say: "Notice that the agent did not ask for the operating system again, and it did not repeat the failed cache-clearing step."
+
+4. Show Hindsight (15 sec)
+Point at the "What Hindsight Recalled" panel: "These are the memories retrieved from Hindsight before the LLM answered."
+
+5. Reflect (15 sec)
+Click Generate Memory Summary: "Reflect lets Hindsight synthesize the customer's accumulated history into a support briefing."
+
+6. Close (10 sec)
+"Our value is simple: the agent doesn't just answer customers — it remembers them, so support gets more contextual with every interaction."
